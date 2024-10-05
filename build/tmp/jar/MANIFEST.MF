@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: tutorialmod
+Specification-Vendor: heartmxtion
+Specification-Version: 1
+Implementation-Title: KamiyoModsSDK
+Implementation-Version: 0.1-1.20.1
+Implementation-Vendor: heartmxtion
+Implementation-Timestamp: 2024-10-05T17:27:45+0300
+
